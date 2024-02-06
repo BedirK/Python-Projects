@@ -1,4 +1,4 @@
 
 ## - Pandas Exercises
 
-## - Customer Credit Card's Data - Explatory Data Analysis (EDA)
+## - Bank Credit Card User's - Exploratory Data Analysis (EDA)
